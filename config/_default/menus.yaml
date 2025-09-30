@@ -1,0 +1,38 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: cdca06a6-07f8-4d9c-547f-3e3e493c37ea
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 08073c3c-e217-559f-5a3e-5aec85774b3e
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 8b7d559e-537d-c21b-84d6-c93184a2ca61
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 30
+- identifier: 6396b119-dea1-934e-bbe3-39b1c3062c94
+  name: Lecture Videos
+  pageRef: /video_galleries/lecture-videos
+  weight: 40
+- identifier: 2f392c24-a659-65e1-313a-0912a7daee6d
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 50
+- identifier: 3a56d48b-646b-b7d6-d731-0e22e76b1bf9
+  name: Hash-based Signature Schemes
+  pageRef: /pages/assignments/pset1-hash-based-signature-schemes
+  parent: 2f392c24-a659-65e1-313a-0912a7daee6d
+  weight: 60
+- identifier: c0452f07-9656-197a-75e1-23a1cfc08b85
+  name: Mine Your Name
+  pageRef: /pages/assignments/pset2-mine-your-name
+  parent: 2f392c24-a659-65e1-313a-0912a7daee6d
+  weight: 70
+- identifier: 5b08a8fc-ea0e-3d97-ca5b-a74f966ef78a
+  name: UTXOhunt
+  pageRef: /pages/assignments/pset3-utxohunt
+  parent: 2f392c24-a659-65e1-313a-0912a7daee6d
+  weight: 80
