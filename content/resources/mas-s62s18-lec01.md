@@ -4,8 +4,6 @@ description: ''
 file: /courses/mas-s62-cryptocurrency-engineering-and-design-spring-2018/c55f60cf3f878bf5e0821cb0a099a30b_MAS-S62S18-lec01.pdf
 file_size: 549076
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

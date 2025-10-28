@@ -4,8 +4,6 @@ description: ''
 file: /courses/mas-s62-cryptocurrency-engineering-and-design-spring-2018/12e8ef3810a0450eef8f177c5caec567_P6AX8KdXAts.pdf
 file_size: 115139
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

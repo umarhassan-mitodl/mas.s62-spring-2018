@@ -34,7 +34,6 @@
     "website": "mas-s62-cryptocurrency-engineering-and-design-spring-2018"
   },
   "course_title": "Cryptocurrency Engineering and Design",
-  "hide_download": true,
   "course_description": "Bitcoin and other cryptographic currencies have gained attention over the years as the systems continue to evolve. This course looks at the design of Bitcoin and other cryptocurrencies and how they function in practice, focusing on cryptography, game theory, and network architecture.\n",
   "department_numbers": [
     "MAS"
@@ -45,7 +44,6 @@
     "content": "b8f258a1-69e9-91e1-3f8a-a43d1f1335dd",
     "website": "mas-s62-cryptocurrency-engineering-and-design-spring-2018"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Videos",
     "Problem Sets",
